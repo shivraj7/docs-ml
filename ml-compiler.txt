@@ -6,3 +6,6 @@ https://huyenchip.com/2021/09/07/a-friendly-introduction-to-machine-learning-com
 
 Glow: Graph Lowering Compiler Techniques forNeural Networks
 https://arxiv.org/pdf/1805.00907
+
+AI Compilers Demystified
+https://medium.com/geekculture/ai-compilers-ae28afbc4907

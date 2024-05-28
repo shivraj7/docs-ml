@@ -3,3 +3,6 @@ https://www.reddit.com/r/Compilers/comments/14z6gwd/any_recommandation_for_study
 
 A friendly introduction to machine learning compilers and optimizers
 https://huyenchip.com/2021/09/07/a-friendly-introduction-to-machine-learning-compilers-and-optimizers.html
+
+Glow: Graph Lowering Compiler Techniques forNeural Networks
+https://arxiv.org/pdf/1805.00907

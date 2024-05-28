@@ -1,1 +1,5 @@
+Any recommandation for studying AI compilers
+https://www.reddit.com/r/Compilers/comments/14z6gwd/any_recommandation_for_studying_ai_compilers/
+
+A friendly introduction to machine learning compilers and optimizers
 https://huyenchip.com/2021/09/07/a-friendly-introduction-to-machine-learning-compilers-and-optimizers.html
